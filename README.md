@@ -37,3 +37,11 @@ It analyzes **skills, experience, and interests** to provide personalized career
 ```bash
 git clone https://github.com/TejasBhalla/AI_Career_Advisor.git
 cd AI_Career_Advisor
+
+## ⚙️ Setup & Installation
+
+### 1. Clone the Repository
+```bash
+git clone https://github.com/TejasBhalla/AI_Career_Advisor.git
+cd AI_Career_Advisor
+
