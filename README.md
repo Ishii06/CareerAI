@@ -38,5 +38,4 @@ It analyzes **skills, experience, and interests** to provide personalized career
 git clone https://github.com/TejasBhalla/AI_Career_Advisor.git
 cd AI_Career_Advisor
 
-git clone https://github.com/TejasBhalla/AI_Career_Advisor.git
-cd AI_Career_Advisor
+
